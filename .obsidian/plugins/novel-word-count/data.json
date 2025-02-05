@@ -39,42 +39,6 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "dummy.txt": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1722741360932,
-      "modifiedDate": 1722742435079,
-      "sizeInBytes": 3237
-    },
-    "rename-me.gitignore": {
-      "isCountable": false,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1726992041895,
-      "modifiedDate": 1726992041895,
-      "sizeInBytes": 15680
-    },
     "templates/slides.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -110,6 +74,42 @@
       "createdDate": 1726992041895,
       "modifiedDate": 1726992041895,
       "sizeInBytes": 670
+    },
+    "rename-me.gitignore": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1726992041895,
+      "modifiedDate": 1726992041895,
+      "sizeInBytes": 15680
+    },
+    "dummy.txt": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1722741360932,
+      "modifiedDate": 1722742435079,
+      "sizeInBytes": 3237
     },
     "assets/session-01-led-and-switch.png": {
       "isCountable": false,
@@ -255,24 +255,6 @@
       "modifiedDate": 1722431331819,
       "sizeInBytes": 19201
     },
-    "assets/Pasted image 20240731164520.png": {
-      "isCountable": false,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1722431331818,
-      "modifiedDate": 1722431331819,
-      "sizeInBytes": 8985
-    },
     "assets/Pasted image 20240731164454.png": {
       "isCountable": false,
       "isDirectory": false,
@@ -291,7 +273,7 @@
       "modifiedDate": 1722431331818,
       "sizeInBytes": 57537
     },
-    "assets/FontAwesome-6-Minimal.zip": {
+    "assets/Pasted image 20240731164520.png": {
       "isCountable": false,
       "isDirectory": false,
       "noteCount": 0,
@@ -305,9 +287,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1727138652220,
-      "modifiedDate": 1727138652696,
-      "sizeInBytes": 662665
+      "createdDate": 1722431331818,
+      "modifiedDate": 1722431331819,
+      "sizeInBytes": 8985
     },
     "assets/FontAwesome-6-Minimal.7z": {
       "isCountable": false,
@@ -326,6 +308,24 @@
       "createdDate": 1727138524000,
       "modifiedDate": 1727138524000,
       "sizeInBytes": 603067
+    },
+    "assets/FontAwesome-6-Minimal.zip": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1727138652220,
+      "modifiedDate": 1727138652696,
+      "sizeInBytes": 662665
     },
     "assets/FastAPI-Yellow-1.png": {
       "isCountable": false,
@@ -633,24 +633,6 @@
       "modifiedDate": 1727427304459,
       "sizeInBytes": 2429
     },
-    "assets/FastAPI-2024-09-24-1@2x.png": {
-      "isCountable": false,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1727140515644,
-      "modifiedDate": 1727140515645,
-      "sizeInBytes": 589166
-    },
     "assets/FastAPI-Eggplant-1.png": {
       "isCountable": false,
       "isDirectory": false,
@@ -723,24 +705,6 @@
       "modifiedDate": 1727427304687,
       "sizeInBytes": 2806
     },
-    "assets/FastAPI-BlueOchre-1-1.png": {
-      "isCountable": false,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1727427304640,
-      "modifiedDate": 1727427304640,
-      "sizeInBytes": 2741
-    },
     "assets/FastAPI-Blue-1.png": {
       "isCountable": false,
       "isDirectory": false,
@@ -759,6 +723,24 @@
       "modifiedDate": 1727427304234,
       "sizeInBytes": 2553
     },
+    "assets/FastAPI-BlueOchre-1-1.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1727427304640,
+      "modifiedDate": 1727427304640,
+      "sizeInBytes": 2741
+    },
     "assets/FastAPI-Black.png": {
       "isCountable": false,
       "isDirectory": false,
@@ -776,6 +758,24 @@
       "createdDate": 1727427304567,
       "modifiedDate": 1727427304568,
       "sizeInBytes": 1846
+    },
+    "assets/FastAPI-2024-09-24-1@2x.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1727140515644,
+      "modifiedDate": 1727140515645,
+      "sizeInBytes": 589166
     },
     "assets/CleanShot 2024-09-27 at 18.21.57.png": {
       "isCountable": false,
@@ -1119,24 +1119,6 @@
       "modifiedDate": 1727420785356,
       "sizeInBytes": 74889
     },
-    "assets/CleanShot 2024-09-27 at 15.02.56.png": {
-      "isCountable": false,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1727420758677,
-      "modifiedDate": 1727420758678,
-      "sizeInBytes": 62575
-    },
     "assets/CleanShot 2024-09-27 at 14.59.24.png": {
       "isCountable": false,
       "isDirectory": false,
@@ -1154,6 +1136,24 @@
       "createdDate": 1727420631738,
       "modifiedDate": 1727420631738,
       "sizeInBytes": 448706
+    },
+    "assets/CleanShot 2024-09-27 at 15.02.56.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1727420758677,
+      "modifiedDate": 1727420758678,
+      "sizeInBytes": 62575
     },
     "assets/CleanShot 2024-07-29 at 20.35.18@2x.png": {
       "isCountable": false,
@@ -1227,24 +1227,6 @@
       "modifiedDate": 1722254050411,
       "sizeInBytes": 114199
     },
-    "assets/CleanShot 2024-07-29 at 19.49.04@2x.png": {
-      "isCountable": false,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1722253792659,
-      "modifiedDate": 1722253792659,
-      "sizeInBytes": 153749
-    },
     "assets/CleanShot 2024-07-29 at 19.34.03@2x.png": {
       "isCountable": false,
       "isDirectory": false,
@@ -1262,6 +1244,24 @@
       "createdDate": 1722252959899,
       "modifiedDate": 1722252959899,
       "sizeInBytes": 112344
+    },
+    "assets/CleanShot 2024-07-29 at 19.49.04@2x.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1722253792659,
+      "modifiedDate": 1722253792659,
+      "sizeInBytes": 153749
     },
     "assets/AcroRd32_ws5NV9iy6q.png": {
       "isCountable": false,
@@ -2037,24 +2037,6 @@
       "modifiedDate": 1723635312975,
       "sizeInBytes": 2305
     },
-    "Session-04/Wifi-Connect-V2/Wifi-Connect-V2.ino": {
-      "isCountable": false,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1723028135524,
-      "modifiedDate": 1723028135524,
-      "sizeInBytes": 1231
-    },
     "Session-04/WiFi-Scanner/WiFi-Scanner.ino": {
       "isCountable": false,
       "isDirectory": false,
@@ -2072,6 +2054,24 @@
       "createdDate": 1723028135524,
       "modifiedDate": 1723028135524,
       "sizeInBytes": 793
+    },
+    "Session-04/Wifi-Connect-V2/Wifi-Connect-V2.ino": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1723028135524,
+      "modifiedDate": 1723028135524,
+      "sizeInBytes": 1231
     },
     "Session-04/WiFi-Connect/WiFi-Connect.ino": {
       "isCountable": false,
@@ -2379,6 +2379,24 @@
       "modifiedDate": 1727871223736,
       "sizeInBytes": 491
     },
+    "ReadMe.pdf": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1727917924923,
+      "modifiedDate": 1727917924924,
+      "sizeInBytes": 53588
+    },
     "Session-01/S01-Introduction.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -2523,24 +2541,6 @@
       "modifiedDate": 1726992041880,
       "sizeInBytes": 3031
     },
-    "ReadMe.pdf": {
-      "isCountable": false,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1727917924923,
-      "modifiedDate": 1727917924924,
-      "sizeInBytes": 53588
-    },
     "ReadMe.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -2649,24 +2649,6 @@
       "modifiedDate": 1722256592947,
       "sizeInBytes": 1277
     },
-    "InterRIoT-Circuits/Flasher-1/Flasher-1.kicad_pcb": {
-      "isCountable": false,
-      "isDirectory": false,
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1722256176264,
-      "modifiedDate": 1722256176264,
-      "sizeInBytes": 78
-    },
     "InterRIoT-Circuits/Flasher-1/Flasher-1-backups/Flasher-1-2024-07-29_203632.zip": {
       "isCountable": false,
       "isDirectory": false,
@@ -2684,6 +2666,24 @@
       "createdDate": 1722256592956,
       "modifiedDate": 1722256592986,
       "sizeInBytes": 5975
+    },
+    "InterRIoT-Circuits/Flasher-1/Flasher-1.kicad_pcb": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1722256176264,
+      "modifiedDate": 1722256176264,
+      "sizeInBytes": 78
     },
     "InterRIoT-Circuits/Basics/InterRIoT-Circuits.kicad_sch": {
       "isCountable": false,

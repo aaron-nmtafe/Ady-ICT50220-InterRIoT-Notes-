@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5de6ec8b6301555d",
+        "id": "7c028b61643046c5",
         "type": "tabs",
         "children": [
           {
-            "id": "1f4fb7e1c5c11ab2",
+            "id": "f7120351416b5404",
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -35,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -89,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for S10-FastAPI-Jinja2"
             }
           },
           {
@@ -101,7 +111,9 @@
                 "file": "Possible-Removal/S10-FastAPI-Jinja2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from S10-FastAPI-Jinja2"
             }
           },
           {
@@ -112,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -122,7 +136,9 @@
               "type": "outline",
               "state": {
                 "file": "Possible-Removal/S10-FastAPI-Jinja2.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of S10-FastAPI-Jinja2"
             }
           }
         ]
@@ -145,7 +161,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "58d9e77d75b35547",
+  "active": "f7120351416b5404",
   "lastOpenFiles": [
     "ReadMe.pdf",
     "Session-12/S12-FastAPI-Security-2.md",
