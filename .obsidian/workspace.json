@@ -11,12 +11,14 @@
             "id": "f7120351416b5404",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/Session-02-20240724163629.png"
+                "file": "Session-03/S03-Exercises-and-Journal.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Session-02-20240724163629"
+              "icon": "lucide-file",
+              "title": "S03-Exercises-and-Journal"
             }
           }
         ]
@@ -164,9 +166,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "58d9e77d75b35547",
+  "active": "f7120351416b5404",
   "lastOpenFiles": [
+    "Session-03/S03-ArduinoIDE.md",
+    "Session-01/S01-Electricity-and-Power-Basics.md",
+    "Session-01/S01-Cluster-Resources.md",
+    "Session-01/S01-Circuit-Diagram-Symbols.md",
     "Session-02/S02-Traffic-Lights.md",
+    "assets/Session-02-20240724163629.png",
     "Session-02/S02-Non-Blocking-Flasher-v4.md",
     "Session-02/S02-Non-Blocking-Flasher-v3.md",
     "Session-02/S02-Non-Blocking-Flasher-v2.md",
@@ -174,8 +181,6 @@
     "Session-02/S02-LED-Flasher-and-Pushbutton.md",
     "Session-02/S02-LED-Flasher.md",
     "Session-01/S01-Electronics-and-Components.md",
-    "Session-01/S01-Electricity-and-Power-Basics.md",
-    "Session-01/S01-Cluster-Resources.md",
     "Session-01/Hardware.md",
     "Session-01/MCU-Controlled-LED.md",
     "ReadMe.pdf",
@@ -195,7 +200,6 @@
     "assets/FastAPI-PurpleOchre-1.png",
     "assets/FastAPI-LimeOchre-1.png",
     "assets/FastAPI-BlueOchre-1.png",
-    "assets/FastAPI-BlueOchre-1-1.png",
     "S11-FastAPI-Logo-Options.md",
     "Session-11/S11-FastAPI-Security-0.md",
     "Session-09/demo.h",
@@ -209,8 +213,6 @@
     "Session-10/S10-.md",
     "Session-09/S09-Exercises-and-Journal.md",
     "Session-09/Untitled.md",
-    "templates/slides.md",
-    "templates/sessions.md",
-    "Session-02/ReadMe.md"
+    "templates/slides.md"
   ]
 }

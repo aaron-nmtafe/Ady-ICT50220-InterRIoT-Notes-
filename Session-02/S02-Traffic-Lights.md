@@ -53,32 +53,37 @@ The components listed also include a switch and LEDs for a pedestrian crossing t
 ![Session-02-20240724163629.png](../assets/Session-02-20240724163629.png)
 
 ## Code
-This code is incomplete...
+This code is functional, but it uses blocking calls.
 
 ```cpp
 /* ------------------------------------------ *
  *
  * Traffic Light Simulator 1
  * 
- * SUMMARY TEXT
+ * This simulator is based on the UK traffic
+ * light and pedestrian crossing sequence.
+ * As a result there is a Red-Amber Phase before
+ * the Green is lit.
  * 
  * Name: 	 YOUR NAME
  *
- * Year: 	 2024
- * Semester: 2
+ * Year: 	 XXXX
+ * Semester: X
  *
  * ------------------------------------------ */
 // Imports
 
 // Macros
 
-#define RED_LED_1   13
-#define RED_LED_2    7
-#define AMBER_LED_1 12
-#define GREEN_LED_1  8
-#define GREEN_LED_2  4
+// Traffic Lights
+#define RED_LED_1     13
+#define AMBER_LED_1   12
+#define GREEN_LED_1    8
 
-#define PB_1		 2
+// Pedestrian Crossing Lights & Button
+#define RED_LED_2      7
+#define GREEN_LED_2    4
+#define PB_1		   2
 
 // Variables
 
@@ -112,7 +117,8 @@ void loop()
   buttonState = digitalRead(PB_1);
   if (buttonState == HIGH) {
     ledOn(RED_LED_1);
-    ledOff(_LED_1);
+    ledOff(AMBER_LED_1);
+    delay(2000);
     ledOff(RED_LED_2);
     ledOn(GREEN_LED_2);
     delay(5000);
@@ -157,3 +163,4 @@ void ledOn(int ledPin){
   digitalWrite(ledPin, HIGH);
 }
 ```
+
