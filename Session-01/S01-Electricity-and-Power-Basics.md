@@ -71,7 +71,7 @@ https://youtu.be/WxJKXGugfh8?si=XNywhoOlKPtwaMez
 
 > In electronics and electrical engineering, it is by convention we define a point in a circuit as a reference point. 
 > 
-> This reference point is known as ground (or GND) and carries a [voltage](https://eepower.com/textbook/vol-i-foundations-power-design/chapter-1-introduction-power/power-dc-circuits) of 0V. 
+> This reference point is known as ground (or GND) and carries a [voltage](https://eepower.com/textbook/vol-i-foundations-power-design/chapter-1-introduction-power/power-dc-circuits) of 0V, and a current of 0A. 
 > 
 > Voltage measurements are relative measurements. That is, a voltage measurement must be compared to another point in the circuit. If it is not, the measurement is meaningless.
 

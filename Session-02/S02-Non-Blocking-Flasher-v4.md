@@ -24,6 +24,8 @@ date modified: 10 July 2024
 
 # Non-Blocking Flasher
 
+This non-blocking flasher allows for the on and off times to be different.
+
 ## Components
 | Name      | Quantity | Component      |
 | --------- | -------- | -------------- |
@@ -40,34 +42,40 @@ date modified: 10 July 2024
 
 ```cpp
 #define RED_LED_1		13
-#define PERIOD		  1000
+#define PERIOD_ON		1000
+#define PERIOD_OFF		2000
 
-int currentTime = 0;
-int previousTime = 0;
-int timeDiff = 0;
-int ledState = LOW;
+unsigned long previousTime = 0;
+int interval = PERIOD_ON;
+boolean ledState = true;
 
 void setup()
 {
-  Serial.begin(9600);
-  pinMode(LED_BUILTIN, OUTPUT);
+  pinMode(RED_LED_1, OUTPUT);
   digitalWrite(RED_LED_1, ledState);
 }
 
 void loop()
 {
-  currentTime = millis();
+
+  digitalWrite(RED_LED_1, ledState);
   
-  timeDiff = currentTime - previousTime;
-  if (timeDiff > 1000){
-    Serial.println(ledState);
-    
-    // ledState = ledState == LOW ? HIGH : LOW;
+  unsigned long currentTime = millis();
+  unsigned long timeDiff = currentTime - previousTime;
+  
+  if (timeDiff >= 1000){
+      if (ledState) {
+        interval = offTime;
+      else {
+        interval = onTime;
+     }
+  
     ledState = !ledState;
-    
-    digitalWrite(RED_LED_1, ledState);
     previousTime = currentTime;
   }
   
 }
 ```
+
+
+[Arduino: Independent On-Off Times with Millis() - Bald Engineer](https://www.baldengineer.com/millis-ind-on-off-times.html)

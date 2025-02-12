@@ -50,7 +50,7 @@ The components listed also include a switch and LEDs for a pedestrian crossing t
 
 ## Circuit
 
-![[Session-02-20240724163629.png]]
+![Session-02-20240724163629.png](../assets/Session-02-20240724163629.png)
 
 ## Code
 This code is incomplete...

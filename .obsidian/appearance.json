@@ -4,6 +4,6 @@
   "textFontFamily": "Verdana,Atkinson Hyperlegible",
   "monospaceFontFamily": "FiraCode Nerd Font",
   "baseFontSize": 20,
-  "cssTheme": "Atom",
-  "theme": "moonstone"
+  "cssTheme": "Encore",
+  "theme": "obsidian"
 }

@@ -11,10 +11,12 @@
             "id": "f7120351416b5404",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "assets/Session-02-20240724163629.png"
+              },
+              "icon": "lucide-image",
+              "title": "Session-02-20240724163629"
             }
           }
         ]
@@ -36,7 +38,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -73,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 200
   },
   "right": {
     "id": "8dd8390eae31acff",
@@ -161,8 +164,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7120351416b5404",
+  "active": "58d9e77d75b35547",
   "lastOpenFiles": [
+    "Session-02/S02-Traffic-Lights.md",
+    "Session-02/S02-Non-Blocking-Flasher-v4.md",
+    "Session-02/S02-Non-Blocking-Flasher-v3.md",
+    "Session-02/S02-Non-Blocking-Flasher-v2.md",
+    "Session-02/S02-Non-Blocking-Flasher-v1.md",
+    "Session-02/S02-LED-Flasher-and-Pushbutton.md",
+    "Session-02/S02-LED-Flasher.md",
+    "Session-01/S01-Electronics-and-Components.md",
+    "Session-01/S01-Electricity-and-Power-Basics.md",
+    "Session-01/S01-Cluster-Resources.md",
+    "Session-01/Hardware.md",
+    "Session-01/MCU-Controlled-LED.md",
     "ReadMe.pdf",
     "Session-12/S12-FastAPI-Security-2.md",
     "Session-12/S11-FastAPI-Security-2.md",
@@ -191,23 +206,11 @@
     "Session-09/demo-extra-files/demo-extra-files.ino",
     "Session-09/demo-extra-files",
     "Session-09/extra-file-demo/another.h",
-    "Session-09/extra-file-demo/New Text Document.txt",
     "Session-10/S10-.md",
     "Session-09/S09-Exercises-and-Journal.md",
     "Session-09/Untitled.md",
     "templates/slides.md",
     "templates/sessions.md",
-    "Session-02/ReadMe.md",
-    "Session-02/S02-Traffic-Lights.md",
-    "Session-01/S01-Introduction.md",
-    "Session-01/S01-Electronics-and-Components.md",
-    "Session-01/S01-Electricity-and-Power-Basics.md",
-    "Session-01/ReadMe.md",
-    "ReadMe.md",
-    "Session-02/S02-Traffic-Lights.md",
-    "Session-01/MCU-Controlled-LED.md",
-    "Session-01/Hardware.md",
-    "Session-02/S02-Non-Blocking-Flasher-v3.md",
-    "Session-02/S02-Non-Blocking-Flasher-v2.md"
+    "Session-02/ReadMe.md"
   ]
 }
