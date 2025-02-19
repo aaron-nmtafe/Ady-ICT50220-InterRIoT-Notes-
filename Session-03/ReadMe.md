@@ -22,5 +22,5 @@ date created: 03 July 2024
 date modified: 10 July 2024
 ---
 
-- [Exercises and Journal](S03-Exercises-and-Journal)
+- [Exercises and Journal](S03-Exercises-and-Journal.md)
 - 

@@ -77,12 +77,12 @@ touch Session-{01,02,03,04}/.gitignore
 
 >Note: if you wish you could create the folders for sessions 01 to 20 and add the empty `.gitignore` files using the above commands, but by adding `,05,06` etc into the curly brackets.
 
-Download this [`gitignore.text`](/assets/gitignore.txt) file.
+Download this [`.gitignore`](/assets/.gitignore) file.
 
 Use the following command to rename and copy it into the `ICT50220-InterRIoT-xxx` folder:
 
 ```shell
-cp /C/Users/USER_ID/Downloads/gitignore.txt ./.gitignore
+cp /C/Users/USER_ID/Downloads/.gitignore ./.gitignore
 ```
 
 Type `ls` and check you have a folder and file list similar to this:
