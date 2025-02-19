@@ -64,6 +64,7 @@ Once created, open the Terminal with the Bash prompt and follow these steps...
 ```shell
 cd /c/Users/YOUR_USER_NAME/Documents
 mkdir Arduino
+cd Arduino
 git clone https://github.com/YOUR_GITHUB_ID/ICT50220-InterRIoT-xxx.git
 ```
 
